@@ -1,2 +1,2 @@
 # login_Signup
-A simple login and signup interface built with HTML, CSS, and JavaScript featuring basic validation, clean design, and responsive layout.
+Developed a login and signup system using HTML, CSS, JavaScript, and PHP. It includes form validation, user authentication, and a responsive UI for a smooth and secure user experience.
